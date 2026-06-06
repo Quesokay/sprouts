@@ -122,7 +122,7 @@ func loadMap(){
   mapW = 5
   mapH = 5
   for i:= 0; i < (mapW*mapH); i++{
-    tileMap = append(tileMap, 1)
+    tileMap = append(tileMap, 13)
   }
 }
 
